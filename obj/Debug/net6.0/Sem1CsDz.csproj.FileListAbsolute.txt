@@ -1,0 +1,15 @@
+C:\Users\nagim\OneDrive\Desktop\Sem1CS_DZ\Sem1CsDz\bin\Debug\net6.0\Sem1CsDz.exe
+C:\Users\nagim\OneDrive\Desktop\Sem1CS_DZ\Sem1CsDz\bin\Debug\net6.0\Sem1CsDz.deps.json
+C:\Users\nagim\OneDrive\Desktop\Sem1CS_DZ\Sem1CsDz\bin\Debug\net6.0\Sem1CsDz.runtimeconfig.json
+C:\Users\nagim\OneDrive\Desktop\Sem1CS_DZ\Sem1CsDz\bin\Debug\net6.0\Sem1CsDz.dll
+C:\Users\nagim\OneDrive\Desktop\Sem1CS_DZ\Sem1CsDz\bin\Debug\net6.0\Sem1CsDz.pdb
+C:\Users\nagim\OneDrive\Desktop\Sem1CS_DZ\Sem1CsDz\obj\Debug\net6.0\Sem1CsDz.csproj.AssemblyReference.cache
+C:\Users\nagim\OneDrive\Desktop\Sem1CS_DZ\Sem1CsDz\obj\Debug\net6.0\Sem1CsDz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nagim\OneDrive\Desktop\Sem1CS_DZ\Sem1CsDz\obj\Debug\net6.0\Sem1CsDz.AssemblyInfoInputs.cache
+C:\Users\nagim\OneDrive\Desktop\Sem1CS_DZ\Sem1CsDz\obj\Debug\net6.0\Sem1CsDz.AssemblyInfo.cs
+C:\Users\nagim\OneDrive\Desktop\Sem1CS_DZ\Sem1CsDz\obj\Debug\net6.0\Sem1CsDz.csproj.CoreCompileInputs.cache
+C:\Users\nagim\OneDrive\Desktop\Sem1CS_DZ\Sem1CsDz\obj\Debug\net6.0\Sem1CsDz.dll
+C:\Users\nagim\OneDrive\Desktop\Sem1CS_DZ\Sem1CsDz\obj\Debug\net6.0\refint\Sem1CsDz.dll
+C:\Users\nagim\OneDrive\Desktop\Sem1CS_DZ\Sem1CsDz\obj\Debug\net6.0\Sem1CsDz.pdb
+C:\Users\nagim\OneDrive\Desktop\Sem1CS_DZ\Sem1CsDz\obj\Debug\net6.0\Sem1CsDz.genruntimeconfig.cache
+C:\Users\nagim\OneDrive\Desktop\Sem1CS_DZ\Sem1CsDz\obj\Debug\net6.0\ref\Sem1CsDz.dll
